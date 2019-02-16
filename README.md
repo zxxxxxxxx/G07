@@ -10,8 +10,6 @@
 <img src="http://qty83k.creatby.com/materials/96303/origin/cdbab1863fdb3e5fccc6af183ec5c9b1_origin.jpg" width="200px">
 </p>
 
-测试账号：31501287 密码：31501287
-
 注：小程序后台已停止维护，故部分功能将无法展示
 
 ## 接口 & 后台声明
@@ -27,7 +25,7 @@
 </p>
 
 <p>
-<img src="http://bmob-cdn-20619.b0.upaiyun.com/2019/02/16/d6a1d283409735d480f2eebd673ce2fe.jpg" width="320px">
+<img src="http://bmob-cdn-20619.b0.upaiyun.com/2019/02/16/7ba4ae1440a647728036ed3563412435.jpg" width="320px">
 </p>
 
 <p>
